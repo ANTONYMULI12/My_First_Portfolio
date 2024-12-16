@@ -15,4 +15,11 @@ aside{
 article{
     flex: 1;
     overflow-y: auto;
+    color: blue;
+    background-color: azure;
+    border-style: solid;
+    border-color: blueviolet;
+}
+.logo{
+    font-size: xx-large;
 }
